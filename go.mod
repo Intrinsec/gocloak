@@ -1,4 +1,4 @@
-module github.com/Intrinsec/gocloak/v13
+module github.com/Intrinsec/gocloak/v14
 
 go 1.18
 
